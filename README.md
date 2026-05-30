@@ -10,8 +10,3 @@ Features
 Technologies Used
 * **Language:** Java (JDK 11+)
 * **Core Concepts:** Loops, Conditional Statements, Random Class, Scanner for User Input.
-
-How to Run
-1. Clone the repository.
-2. Compile the Java file: `javac Game_P1.java`
-3. Run the application: `java Game_P1`
